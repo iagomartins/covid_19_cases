@@ -1,6 +1,6 @@
 # Covid 19 Cases (covid-19-cases)
 
-Contains data about Covid-19 cases from 2020 to 2022.
+Contains data about Covid-19 cases from 2020 to 2021.
 
 ## Frameworks and tools used
 - Vue.js [Documentation](https://vuejs.org/guide/introduction.html);
