@@ -1,4 +1,4 @@
-# Covid 19 Cases (covid-19-cases)
+# Covid 19 Cases (covid-19-cases) - DEPRECATED
 
 Contains data about Covid-19 cases from 2020 to 2021.
 
